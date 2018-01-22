@@ -1,13 +1,33 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
+
     <router-view/>
+
+    Users
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
+  data () {
+    return {
+      users: []
+    }
+  },
+
+  created () {
+    this.getUsers()
+  },
+
+  methods: {
+    getUsers () {
+      this.$http.get('http://localhost:8000/api/users').then(response => {
+        console.log(response)
+      })
+    }
+  }
 }
 </script>
 
