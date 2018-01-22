@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18f23705-9d85-4178-9fb9-838fb673c270" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/LaravelApi/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/LaravelApi/app/Http/Kernel.php" />
+      <change beforePath="$PROJECT_DIR$/LaravelApi/routes/api.php" afterPath="$PROJECT_DIR$/LaravelApi/routes/api.php" />
+      <change beforePath="$PROJECT_DIR$/RealChat/package-lock.json" afterPath="$PROJECT_DIR$/RealChat/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/RealChat/package.json" afterPath="$PROJECT_DIR$/RealChat/package.json" />
+      <change beforePath="$PROJECT_DIR$/RealChat/src/App.vue" afterPath="$PROJECT_DIR$/RealChat/src/App.vue" />
+      <change beforePath="$PROJECT_DIR$/RealChat/src/main.js" afterPath="$PROJECT_DIR$/RealChat/src/main.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/LaravelApi/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LaravelApi/routes/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsersController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LaravelApi/app/Http/Controllers/UsersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1566">
+              <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RealChat/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LaravelApi/routes/api.php" />
+        <option value="$PROJECT_DIR$/LaravelApi/app/Http/Controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/RealChat/src/main.js" />
+        <option value="$PROJECT_DIR$/RealChat/src/App.vue" />
+        <option value="$PROJECT_DIR$/LaravelApi/app/Http/Kernel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/RealChat/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/league/event" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/thanks" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/LaravelApi/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-71" />
+    <option name="y" value="45" />
+    <option name="width" value="1346" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LaravelApi" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LaravelApi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="LaravelApi" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="RealChat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="RealChat" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18f23705-9d85-4178-9fb9-838fb673c270" name="Default" comment="" />
+      <created>1516655714532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516655714532</updated>
+      <workItem from="1516655716191" duration="4005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4005000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-71" y="45" width="1368" height="721" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RealChat/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#140#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaravelApi/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaravelApi/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LaravelApi/app/Http/Controllers/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RealChat/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
