@@ -1,43 +1,34 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
+    <div>
+        <!--<pre>{{ userStore }}</pre>-->
+        <top-menu></top-menu>
+        <router-view></router-view>
+    </div>
 
-    <router-view/>
-
-    Users
-  </div>
 </template>
 
 <script>
+import TopMenu from './pages/TopMenu'
+import {mapState} from 'vuex'
 export default {
-  name: 'App',
-  data () {
-    return {
-      users: []
-    }
+  components: {
+    TopMenu
   },
+  computed: {
 
+    ...mapState({
+      userStore: state => state.userStore
+    })
+  },
   created () {
-    this.getUsers()
-  },
-
-  methods: {
-    getUsers () {
-      this.$http.get('http://localhost:8000/api/users').then(response => {
-        console.log(response)
-      })
-    }
+    console.log(' i was created')
+    const userObj = JSON.parse(window.localStorage.getItem('authUser'))
+    this.$store.dispatch('setUserObject', userObj)
   }
 }
 </script>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style lang="sass">
+    @import 'assets/css/bootstrap.min.css'
+
 </style>
